@@ -1,0 +1,36 @@
+_repo: Tykkien-virsi-Kenttapapin-kokemuksia-ja-mielialoja-vapaussodan-paivilta_51806
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järventaus, Arvi
+    aliases:
+    - Järventaus, Heikki Arvi
+    - Jarventaus, Arvi
+    - Ockenström, Heikki Arvi
+    - Ockenstrom, Heikki Arvi
+    birthdate: 1883
+    deathdate: 1939
+    gutenberg_agent_id: '44905'
+    url: http://www.gutenberg.org/2009/agents/44905
+    wikipedia: https://fi.wikipedia.org/wiki/Arvi_J%C3%A4rventaus
+description: ''
+gutenberg_issued: '2016-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51806'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finland -- History -- Civil War, 1918 -- Fiction'
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 20th century'
+- GITenberg
+tableOfContents: Tuomiokirkossa -- Matkalla rintamalle -- Etelää kohti -- "Posti on
+  tullut!" -- Leirielämää -- Matti Kuha -- Taistelun kestäessä -- Pitkänperjantain
+  saarna -- Hiljainen Yrjänä -- Valkoinen Tampere -- Kunnian kentiltä -- Valkoinen
+  arkku.
+title: 'Tykkien virsi: Kenttäpapin kokemuksia ja mielialoja vapaussodan päiviltä'
+url: http://www.gutenberg.org/ebooks/51806
