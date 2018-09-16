@@ -1,5 +1,8 @@
 _repo: Tykkien-virsi-Kenttapapin-kokemuksia-ja-mielialoja-vapaussodan-paivilta_51806
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Järventaus, Arvi
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44905
     wikipedia: https://fi.wikipedia.org/wiki/Arvi_J%C3%A4rventaus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51806#Tykkien-virsi-Kenttapapin-kokemuksia-ja-mielialoja-vapaussodan-paivilta
 gutenberg_issued: '2016-04-19'
 gutenberg_type: Text
 identifiers:
